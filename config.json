@@ -1,0 +1,12 @@
+{
+  "mysql_config": {
+    "host": "localhost",
+    "user": "root",
+    "password": "*MYSQLPassword*",
+    "database": "*DatabaseName*"
+  },
+  "level0_path": "./datasets/level-0",
+  "output_dir": "./analysis_output",
+  "chunk_size": 10000,
+  "max_workers": 4
+}
